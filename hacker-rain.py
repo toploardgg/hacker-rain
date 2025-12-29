@@ -1,3 +1,5 @@
+#BY TOPLOARDGG
+#MON. 29 DEC. 23:49
 import pygame
 import random
 import sys
