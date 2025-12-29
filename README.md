@@ -4,8 +4,22 @@ Matrix movie hacker rain that opens in fullscreen (Borderless Window) rain with 
 ![OS](https://img.shields.io/badge/Tested%20On-Linux%20|%20Windows-yellowgreen.svg?style=flat-square) 
 The code runs on Python3. Toploardgg or I do not take responsibility for errors in the code or the repository in Python 3, and especially in other versions of Python. I suggest running it with Python 3. The code was written only by Toploardgg. I do not allow publishing under my name or without crediting the author.
 
+WARNING.
+FILE IS OPENING ON THE LAST MONITOR
+
+## Screenshots
+![Matrix Hacker Rain Demo](hacker-rain.png)
+
 Hacker Rain
 Matrix-style digital rain animation with binary code (0s and 1s) that opens in fullscreen borderless window mode.
+
+if you want you can change the settings:
+# Basic settings
+RAIN_SPEED = 15           # Falling speed (pixels per frame)
+DENSITY = 100             # Number of streams (higher = denser rain)
+CHARACTERS = "01"         # Characters for display (you can add others)
+COLOR = (0, 255, 0)       # Character color in RGB
+FONT_SIZE = 20            # Font size
 
 Features
 Fullscreen borderless window display
