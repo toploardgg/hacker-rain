@@ -8,7 +8,7 @@ WARNING.
 FILE IS OPENING ON THE LAST MONITOR
 
 ## Screenshots
-![Matrix Hacker Rain Demo](hacker-rain.png)
+![Matrix Hacker Rain](hacker-rain.png)
 
 Hacker Rain
 Matrix-style digital rain animation with binary code (0s and 1s) that opens in fullscreen borderless window mode.
