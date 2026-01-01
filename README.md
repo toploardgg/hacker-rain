@@ -68,11 +68,11 @@ Platform Compatibility
 
 Note: The code is specifically tested and optimized for Python 3.8+. Compatibility with other Python versions is not guaranteed.
 
-License
+License:
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Author
+Author:
 Created by Toploardgg
 
-Disclaimer
+Disclaimer:
 The author takes no responsibility for any issues arising from the use of this code. This includes but is not limited to compatibility issues, system errors, or any other problems that may occur during installation or execution.
